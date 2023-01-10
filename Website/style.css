@@ -1,0 +1,187 @@
+.menu2 {
+position: absolute;
+width: 466px;
+height: 80px;
+left: 240px;
+top: 2px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+.menu3 {
+position: absolute;
+width: 182px;
+height: 17px;
+left: 390px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+
+.menu4 {
+position: absolute;
+width: 400px;
+height: 200px;
+left: 10px;
+top: 250px;
+
+background: #91BDFF;
+}
+
+.menu5 {
+position: absolute;
+width: 399px;
+height: 228px;
+left: 15px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu6 {
+position: absolute;
+left: 450px;
+top: 230px;
+
+background: url(2.jpg);
+}
+
+.menu7 {
+position: absolute;
+width: 99px;
+height: 28px;
+left: 596px;
+top: 470px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu8 {
+position: absolute;
+width: 600px;
+height: 100px;
+left: 0px;
+top: 500px;
+
+background: #B6EBA3;
+}
+
+.menu9 {
+position: absolute;
+width: 129px;
+height: 22px;
+left: 10px;
+top: 490px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu10 {
+position: absolute;
+width: 106px;
+height: 26px;
+left: 15px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu11 {
+position: absolute;
+width: 88px;
+height: 28px;
+left: 133px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu12 {
+position: absolute;
+width: 72px;
+height: 27px;
+left: 233px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu13 {
+position: absolute;
+width: 75px;
+height: 27px;
+left: 317px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.menu14 {
+position: absolute;
+width: 75px;
+height: 27px;
+left: 404px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
